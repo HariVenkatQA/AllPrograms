@@ -10,6 +10,10 @@ public class ExFourteenPointOne extends ExFourteen  {
 		System.out.println("chitti");
 	}
 	
+	private void mani() {
+		
+
+	}
 	
 	
 	public static void main(String[] args) {
@@ -21,6 +25,10 @@ public class ExFourteenPointOne extends ExFourteen  {
 //		ExFourteen e = new ExFourteen();
 //		e.vishwaroopam();
 //		e.heyram();
+		
+		String s = "bnvfgnv";
+		
+		
 		
 	}
 

@@ -10,11 +10,22 @@ public class ExOne {
 					System.out.println("Selenium course is Yet to Complete");
 		}
 		
+		private void saravana() {
+			System.out.println("Saravana vada poda");
+
+		}
+		
 		public static void main(String[] args) {
 			
-			ExOne ex = new ExOne();
-			ex.javaCourse();
-			ex.seleniumCourse();
+			ExOne m = new ExOne();
+			
+			m.saravana();
+			m.javaCourse();
+			m.seleniumCourse();
+			
+			
+			
+			
 		}
 				
 				
